@@ -58,6 +58,9 @@
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h2>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ijiz&layout=compact)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@5b9c54d0-2533-4287-899e-40f7e8277c0e\&layout=compact)
+
 
 💪 **Learning:** 
 
@@ -110,7 +113,6 @@ counting of visitors to this page in this section started from 2018-7-30-13:14:0
 
 
 ![](assets/Bottom_down.svg)
-
 
 <!--
 **ijiz/ijiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
