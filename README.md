@@ -1,5 +1,7 @@
 ![heard](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00000,100:000000&text=Hi%20%There!&section=header&textBg=false&fontAlign=38&desc=Welcome%20to%20my%20profile&fontAlignY=32&descAlignY=51&reversal=false)
-
+<!--
+https://github.com/kyechan99/capsule-render
+-->
 <h3 align="center">Things I code with</h3>
 <p align="center">
     <img alt="Java" src="https://img.shields.io/badge/-Java-informational?style=flat-square&logo=java&logoColor=white" />
@@ -57,9 +59,12 @@
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ijiz&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ijiz&layout=compact&langs_count=6&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+[![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=xb2016&layout=compact&langs_count=6&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+(https://github.com/anuraghazra/github-readme-stats)
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@5b9c54d0-2533-4287-899e-40f7e8277c0e\&layout=compact)
-
+-->
 
 💪 **Learning:** 
 
