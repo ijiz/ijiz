@@ -1,5 +1,4 @@
-![](assets/Bottom_up.svg)
-
+![heard](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00000,100:000000&text=Hi%20%There!&section=header&textBg=false&fontAlign=38&desc=Welcome%20to%20my%20profile&fontAlignY=32&descAlignY=51&reversal=false)
 
 <h3 align="center">Things I code with</h3>
 <p align="center">
@@ -112,7 +111,7 @@ counting of visitors to this page in this section started from 2018-7-30-13:14:0
 </p>
 
 
-![](assets/Bottom_down.svg)
+![heard](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00000,100:000000&section=footer&textBg=false&fontAlign=38&fontAlignY=32&descAlignY=51&reversal=false)
 
 <!--
 **ijiz/ijiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
