@@ -42,8 +42,8 @@ https://github.com/kyechan99/capsule-render
         <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg?response-content-disposition=attachment%3Bfilename%3Dandroid-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <span>𝗖𝗦𝗦</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3_official.svg?response-content-disposition=attachment%3Bfilename%3Dcss-3_official.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗣𝘆𝗧𝗼𝗿𝗰𝗵</span><br><br><br>
