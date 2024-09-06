@@ -59,7 +59,7 @@ https://github.com/kyechan99/capsule-render
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ijiz&layout=compact&langs_count=6&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ijiz&layout=compact&langs_count=6&card_width=394)](https://github.com/anuraghazra/github-readme-stats)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@5b9c54d0-2533-4287-899e-40f7e8277c0e\&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 [![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=xb2016&layout=compact&langs_count=6&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
